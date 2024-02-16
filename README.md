@@ -1,5 +1,7 @@
 # Marketing-Analytics-Dashboard
 
+![Marketing Analytics Dashboard Demo](https://github.com/Farahhoque/Marketing-Analytics-Dashboard/raw/main/MD2%20-%20Made%20with%20Clipchamp.gif)
+
 ## Introduction
 Welcome to the Marketing Analytics Dashboard for Mountain Wheels Superstore! This advanced analytical framework is meticulously designed to empower our sales and marketing teams with real-time insights into crucial performance metrics, customer behavior, and prevailing market trends. By harnessing the power of data-driven decision-making, this dashboard serves as a strategic tool to drive the success of our business.
 
